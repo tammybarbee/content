@@ -70,8 +70,10 @@ false
 ```
 ```false
 0
-```
-```false
+%exp
+Positive 0 will always be evaluated to false in JavaScript.
+%
+
 ''
 ```
 ```false

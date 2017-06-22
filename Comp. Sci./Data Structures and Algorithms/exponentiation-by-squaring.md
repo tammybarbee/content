@@ -24,7 +24,7 @@ The concept of **exponentiation by squaring** refers to a method to fast compute
 
 The most basic way to exponentiate is multiplying the number by itself:
 ```
-3^20 = 3*3* … *3 (20 times)
+3^20 = 3*3* ... *3 (20 times)
 ```
 This will have to do `O(n)` (i.e. *O(20)* ) operations to calculate the result.
 
@@ -79,8 +79,8 @@ For small exponent values, squaring might need more operations than straight-for
 For an exponent of `350`, what's the upper-bound of the number of operations required to compute the result using the exponentation by squaring method?
 
 ???
-*2*O(log 350)
 *O(log 350)
+*O(350^2)
 *O(350)
 *O(log log 350)
 

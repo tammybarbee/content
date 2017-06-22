@@ -1,5 +1,5 @@
-# Sets
-author: catalin
+# Sets.
+author: SebaRaba
 
 levels:
 
@@ -11,60 +11,83 @@ category: must-know
 
 links:
 
-  - >-
-    [www.python-course.eu](http://www.python-course.eu/sets_frozensets.php){website}
-
-  - >-
-    [docs.python.org](https://docs.python.org/3.5/library/stdtypes.html#set-types-set-frozenset){website}
+  - '[more about sets](http://www.python-course.eu/python3_sets_frozensets.php)'
 
 ---
 ## Content
 
-Python's `sets` work like mathematical sets. Unlike `tuples` or `lists`, a `set` contains **unique**, **unordered** items.
+In **Python**, **Sets** have four main characteristics:
+- they are an **unordered collection** of elements;
+- every elements is **unique** (no duplicates);
+- and every element must be **immutable**;
+- they can store elements of different **types**.
 
-One way of creating a set is by calling the `set` constructor function and passing an `iterable` as argument:
-```python
-enki = "Enki"
-s = set(enki)
-print(s)
-# {'i', 'n', 'k', 'E'}
+Even though elements stored in **sets** must be **immutable** the set itself is **mutable**.
+
+There are two ways to create a **set**:
+- by placing all items inside `{}`, separated by commas;
+- or by using the **built in function** `set()`.
+
+There is no constraint regarding which **method** to use, but you have to know that an **empty set** can't be created using the following **syntax**: `my_set = {}`. It is because, **empty curly braces** create an **empty dictionary in Python**.
+
+Consider the following example:
+
+```
+my_set = {1,2,3,4,5}
+
+# OR
+
+my_set = set([1,2,3,4,5])
 ```
 
-Another way is by using the default `{ } ` constructor :
-```python
->>> s = {'E', 'n', 'k', 'i'}
->>> s
-{'k', 'E', 'i', 'n'}
+**Sets** updating is done using two **methods**:
+- `add()` -> adds one single element to the **set**;
+- `update()` -> adds more elements at a time to the **set**;
+
+Suppose we have the set created above:
+
+```
+my_set.add(9)
+print(my_set)
+
+# Output: {1,2,3,4,5,9}
+
+my_set.update([2,3,10,7],{11,12})
+print(my_set)
+
+# Output: {1,2,3,4,5,9,10,7,11,12}
 ```
 
-`Sets` support union, intersection, difference, symmetric difference and membership test operations, of which we'll talk in a later workout.
+As you can see, if we try to add **duplicate values** to the **set**, it wouldn't consider them.
 
-One useful application of them is to extract unique items from another iterable data structure.
+**Sets** have two methods for removing items as well:
+- `discard()` -> which removes an element if it exists and does nothing if it doesn't.
+- `remove()` -> which does the same thing if the element exists, but would raise an error if it doesn't exist.
+
+```
+my_set.remove(1)
+my_set.discard(5)
+print(my_set)
+
+# Output: {2,3,4,9,10,7,11,12}
+```
 
 ---
 ## Practice
 
-Which character(s) is used when finding the symmetric difference between two sets? ???
+What are the two used for updating sets?
+???
 
-*`^`
-*`s`
-*`s+`
-*`s-`
-*`s^`
+* `update()` and `add()`
+* `update()` and `insert()`
+* `insert()` and `add()`
 
 ---
 ## Revision
 
-What is the following code snippet doing with the two sets?
+What happens when you use `remove()` on an element that doesn't exist in the set?
+???
 
- ???
-
-```
-s1 = set([‘a’, ‘b’])
-s2 = set([‘b’, ‘c’])
-print(s1 | s2)
-```
-
-*Printing the union of s1 and s2.
-*Printing s1 and s2.
-*Printing the intersection of s1 and s2.
+* An error will be thrown.
+* Nothing.
+* The element will be removed.

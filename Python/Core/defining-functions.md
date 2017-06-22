@@ -42,18 +42,18 @@ Which of the following syntaxes is correct for defining Python functions:
 
 ```python
 def function1():
-    # function code…
+    // function code...
 
 def function2() {
-    # function code…
+    // function code...
 }
 
 def function 3(
-    # function code…
+    // function code...
 }
 
 def function 4()
-    # function code…
+    // function code...
 ```
 ???
 
@@ -68,6 +68,6 @@ def function 4()
 What keyword is used to define a new function?
 ???
 
-* `def`
-* `new`
+* `def` 
+* `new` 
 * `func`

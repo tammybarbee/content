@@ -28,7 +28,7 @@ var longerText = "abc" +
 		"ghi";
 ```
 
-You can also use the backslash character to continue text to multiple lines (make sure nothing is after the backslash):
+You can also use the backslash character to continue writing text on multiple lines (make sure nothing is after the backslash). Note there will not be a new line after the text when written this way:
 
 ```
 var longerText = "abc \
@@ -49,17 +49,17 @@ There are also special characters that can be used by preceding the character wi
 ---
 ## Practice
 
-What special character is used to write **multi line** strings?
+What special character is used to add a `new line` to strings?
 
 ```javascript
-var myString = 'this will ??? 
-       be a multi line string';
+var myString = 'this will ???
+       be displayed on two lines';
 ```
 
 *`\n`
 *`+`
 *`"`
-*`\\`
+*`\`
 *`\r`
 *`\t`
 
