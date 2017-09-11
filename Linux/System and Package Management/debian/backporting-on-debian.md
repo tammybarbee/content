@@ -15,20 +15,16 @@ type: normal
 category: feature
 
 tags:
-
   - backporting
-
   - linux
-
   - debian
-
   - terminal
-
   - apt-get
-
   - aptitude
-
   - upgrades
+  - workout
+  - deep
+
 
 notes: ''
 

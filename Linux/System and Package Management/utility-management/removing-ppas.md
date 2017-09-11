@@ -12,24 +12,17 @@ type: normal
 category: how to
 
 tags:
-
   - linux
-
   - debian
-
   - ubuntu
-
   - software
-
   - ppa
-
   - apt-get
-
   - ppa-purge
-
   - install
-
   - repository
+  - workout
+
 
 parent: using-ppas
 

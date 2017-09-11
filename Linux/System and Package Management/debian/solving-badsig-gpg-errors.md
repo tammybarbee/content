@@ -14,20 +14,16 @@ type: normal
 category: caveats
 
 tags:
-
   - linux
-
   - pgp
-
   - security
-
   - signature
-
   - terminal
-
   - apt-get
-
   - ubuntu
+  - workout
+  - deep
+
 
 ---
 ## Content

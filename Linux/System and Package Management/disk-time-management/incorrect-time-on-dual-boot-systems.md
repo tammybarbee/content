@@ -14,14 +14,12 @@ type: normal
 category: hack
 
 tags:
-
   - linux
-
   - terminal
-
   - time
-
   - UTC
+  - workout
+
 
 ---
 ## Content

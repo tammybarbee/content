@@ -14,18 +14,14 @@ type: normal
 category: how to
 
 tags:
-
   - linux
-
   - terminal
-
   - uname
-
   - architecture
-
   - kernel
-
   - ''
+  - workout
+
 
 ---
 ## Content

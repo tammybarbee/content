@@ -16,6 +16,8 @@ links:
   - >-
     [linux.about.com](http://linux.about.com/od/howtos/fl/Boast-How-Long-Your-Linux-System-Has-Been-Running-Using-uptime.htm){website}
 
+tags:
+  - workout
 ---
 ## Content
 

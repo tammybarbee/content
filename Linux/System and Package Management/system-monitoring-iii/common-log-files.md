@@ -12,14 +12,12 @@ type: normal
 category: feature
 
 tags:
-
   - linux
-
   - logs
-
   - terminal
-
   - dmesg
+  - workout
+
 
 ---
 ## Content

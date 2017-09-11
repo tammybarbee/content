@@ -11,6 +11,8 @@ type: normal
 
 category: must-know
 
+tags:
+  - workout
 ---
 ## Content
 

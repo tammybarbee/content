@@ -10,16 +10,14 @@ type: normal
 category: how to
 
 tags:
-
   - linux
-
   - system
-
   - boot
-
   - execute
-
   - rc.local
+  - workout
+  - deep
+
 
 ---
 ## Content

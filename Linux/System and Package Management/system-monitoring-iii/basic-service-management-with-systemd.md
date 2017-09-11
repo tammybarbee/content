@@ -10,18 +10,14 @@ type: normal
 category: must-know
 
 tags:
-
   - linux
-
   - service
-
   - systemd
-
   - restart
-
   - reload
-
   - status
+  - workout
+
 
 ---
 ## Content

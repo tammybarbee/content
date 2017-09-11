@@ -12,14 +12,12 @@ type: normal
 category: how to
 
 tags:
-
   - vmstat
-
   - memory
-
   - monitor
-
   - metrics
+  - workout
+
 
 ---
 ## Content

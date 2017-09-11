@@ -16,20 +16,15 @@ type: normal
 category: how to
 
 tags:
-
   - linux
-
   - terminal
-
   - dpkg
-
   - apt-get
-
   - package
-
   - version
-
   - debian
+  - workout
+
 
 notes: ''
 

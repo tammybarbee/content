@@ -14,22 +14,16 @@ type: normal
 category: best practice
 
 tags:
-
   - cron
-
   - apt-get
-
   - update
-
   - repository
-
   - schedule
-
   - repo
-
   - terminal
-
   - ''
+  - workout
+
 
 ---
 ## Content

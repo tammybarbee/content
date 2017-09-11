@@ -10,16 +10,14 @@ type: normal
 category: best practice
 
 tags:
-
   - linux
-
   - crontab
-
   - tmp
-
   - temp
-
   - cleanup
+  - workout
+  - deep
+
 
 parent: practical-cron
 

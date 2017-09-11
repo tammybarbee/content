@@ -12,14 +12,13 @@ type: normal
 category: hack
 
 tags:
-
   - git
-
   - linux
-
   - bash
-
   - backup
+  - workout
+  - deep
+
 
 notes: ''
 

@@ -12,22 +12,16 @@ type: normal
 category: must-know
 
 tags:
-
   - linux
-
   - debian
-
   - deb
-
   - install
-
   - dpkg
-
   - install
-
   - remove
-
   - terminal
+  - workout
+
 
 ---
 ## Content

@@ -12,18 +12,14 @@ type: normal
 category: how to
 
 tags:
-
   - linux
-
   - terminal
-
   - apt
-
   - package
-
   - update
-
   - aptitude
+  - workout
+
 
 ---
 ## Content

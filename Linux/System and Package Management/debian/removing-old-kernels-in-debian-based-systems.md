@@ -12,20 +12,16 @@ type: normal
 category: how to
 
 tags:
-
   - linux
-
   - kernel
-
   - cleanup
-
   - remove
-
   - dpkg
-
   - update
-
   - grub
+  - workout
+  - deep
+
 
 ---
 ## Content

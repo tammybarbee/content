@@ -14,20 +14,15 @@ type: normal
 category: how to
 
 tags:
-
   - linux
-
   - dd
-
   - disk spee
-
   - benchmark
-
   - io
-
   - performance
-
   - terminal
+  - workout
+
 
 notes: ''
 

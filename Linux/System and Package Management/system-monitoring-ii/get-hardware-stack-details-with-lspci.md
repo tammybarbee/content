@@ -14,18 +14,14 @@ type: normal
 category: how to
 
 tags:
-
   - linux
-
   - hardware
-
   - info
-
   - lsusb
-
   - lspci
-
   - lshw
+  - workout
+
 
 links:
 

@@ -12,20 +12,15 @@ type: normal
 category: how to
 
 tags:
-
   - software
-
   - apt-get
-
   - ppa
-
   - repository
-
   - terminal
-
   - server
-
   - ubuntu
+  - workout
+
 
 ---
 ## Content

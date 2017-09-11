@@ -12,16 +12,13 @@ type: normal
 category: best practice
 
 tags:
-
   - linux
-
   - apt
-
   - terminal
-
   - mirror
-
   - ubuntu
+  - workout
+
 
 ---
 ## Content

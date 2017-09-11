@@ -14,16 +14,14 @@ type: normal
 category: caveats
 
 tags:
-
   - linux
-
   - locale
-
   - dpkg
-
   - locales
-
   - terminal
+  - workout
+  - deep
+
 
 ---
 ## Content

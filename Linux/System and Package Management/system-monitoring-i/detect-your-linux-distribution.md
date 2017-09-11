@@ -14,16 +14,13 @@ type: normal
 category: how to
 
 tags:
-
   - linux
-
   - distribution
-
   - lsb_release
-
   - command
-
   - temrinal
+  - workout
+
 
 ---
 ## Content

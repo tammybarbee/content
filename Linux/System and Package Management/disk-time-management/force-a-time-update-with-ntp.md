@@ -13,20 +13,15 @@ type: normal
 category: how to
 
 tags:
-
   - linux
-
   - time
-
   - ntp
-
   - ntpdate
-
   - update
-
   - sync
-
   - terminal
+  - workout
+
 
 ---
 ## Content

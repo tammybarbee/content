@@ -16,14 +16,12 @@ type: normal
 category: must-know
 
 tags:
-
   - files
-
   - open
-
   - ls
-
   - lsof
+  - workout
+
 
 notes: 'to review parent'
 

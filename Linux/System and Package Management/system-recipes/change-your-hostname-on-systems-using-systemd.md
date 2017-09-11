@@ -10,18 +10,15 @@ type: normal
 category: how to
 
 tags:
-
   - linux
-
   - ubuntu
-
   - systemd
-
   - hostname
-
   - hosts
-
   - change
+  - workout
+  - deep
+
 
 links:
 

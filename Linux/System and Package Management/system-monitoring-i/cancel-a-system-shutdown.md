@@ -12,8 +12,9 @@ type: normal
 category: how to
 
 tags:
-
   - shutdown
+  - workout
+
 
 ---
 ## Content

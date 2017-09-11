@@ -10,18 +10,14 @@ type: normal
 category: how to
 
 tags:
-
   - linux
-
   - terminal
-
   - who
-
   - w
-
   - logins
-
   - remote
+  - workout
+
 
 links:
 

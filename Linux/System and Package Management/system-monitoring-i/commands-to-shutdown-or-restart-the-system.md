@@ -12,14 +12,12 @@ type: normal
 category: must-know
 
 tags:
-
   - shutdown
-
   - linux
-
   - halt
-
   - poweroff
+  - workout
+
 
 ---
 ## Content

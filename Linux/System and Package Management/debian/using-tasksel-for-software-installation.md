@@ -12,16 +12,14 @@ type: normal
 category: feature
 
 tags:
-
   - linux
-
   - apt-get
-
   - tasksel
-
   - terminal
-
   - server
+  - workout
+  - deep
+
 
 ---
 ## Content

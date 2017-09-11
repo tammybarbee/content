@@ -16,16 +16,13 @@ type: normal
 category: how to
 
 tags:
-
   - linux
-
   - downgrade
-
   - apt-get
-
   - package
-
   - terminal
+  - workout
+
 
 ---
 ## Content

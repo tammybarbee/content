@@ -12,16 +12,13 @@ type: normal
 category: how to
 
 tags:
-
   - bash
-
   - write
-
   - wall
-
   - broadcast
-
   - messages
+  - workout
+
 
 notes: ''
 

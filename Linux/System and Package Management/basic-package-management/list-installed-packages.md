@@ -16,24 +16,17 @@ type: normal
 category: how to
 
 tags:
-
   - linux
-
   - terminal
-
   - dpkg
-
   - package
-
   - debian
-
   - ubuntu
-
   - package list
-
   - installed
-
   - grep
+  - workout
+
 
 notes: ''
 

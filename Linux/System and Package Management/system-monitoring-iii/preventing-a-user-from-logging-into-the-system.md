@@ -10,16 +10,13 @@ type: normal
 category: tip
 
 tags:
-
   - linux
-
   - nologin
-
   - 'false'
-
   - shells
-
   - prevent
+  - workout
+
 
 ---
 ## Content

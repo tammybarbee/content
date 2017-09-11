@@ -15,6 +15,8 @@ links:
   - '[PPAs with GUI](https://askubuntu.com/questions/4983/what-are-ppas-and-how-do-i-use-them)'
   - '[Launchpad](https://launchpad.net/)'
 
+tags:
+  - workout
 ---
 ## Content
 

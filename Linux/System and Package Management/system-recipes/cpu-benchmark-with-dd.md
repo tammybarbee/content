@@ -12,18 +12,15 @@ type: normal
 category: hack
 
 tags:
-
   - linux
-
   - terminal
-
   - dd
-
   - benchmark
-
   - cpu
-
   - checksum
+  - workout
+  - deep
+
 
 notes: ''
 
