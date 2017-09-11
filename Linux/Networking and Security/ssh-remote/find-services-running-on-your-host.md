@@ -12,20 +12,16 @@ type: normal
 category: how to
 
 tags:
-
   - linux
-
   - terminal
-
   - netstat
-
   - connections
-
   - services
-
   - listening
-
   - ports
+  - workout
+  - deep
+
 
 notes: ''
 

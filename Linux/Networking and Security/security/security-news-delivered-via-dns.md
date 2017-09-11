@@ -14,18 +14,15 @@ type: normal
 category: hack
 
 tags:
-
   - linux
-
   - dns
-
   - security
-
   - dig
-
   - short
-
   - terminal
+  - workout
+  - deep
+
 
 ---
 ## Content

@@ -12,18 +12,14 @@ type: normal
 category: how to
 
 tags:
-
   - apache2
-
   - benchmark
-
   - webservers
-
   - terminal
-
   - ab
-
   - apachebench
+  - workout
+
 
 notes: ''
 

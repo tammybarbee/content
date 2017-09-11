@@ -14,18 +14,14 @@ type: normal
 category: hack
 
 tags:
-
   - linux
-
   - terminal
-
   - sendemail
-
   - mail
-
   - gmail
-
   - ''
+  - workout
+
 
 ---
 ## Content

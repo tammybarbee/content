@@ -14,22 +14,16 @@ type: normal
 category: feature
 
 tags:
-
   - linux
-
   - cp
-
   - pv
-
   - progress
-
   - speed
-
   - copy
-
   - terminal
-
   - bash
+  - workout
+
 
 ---
 ## Content

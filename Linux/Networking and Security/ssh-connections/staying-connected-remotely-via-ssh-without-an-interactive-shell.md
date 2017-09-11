@@ -12,8 +12,10 @@ type: normal
 category: hack
 
 tags:
-
   - ssh-tunnel-interactive-shell
+  - introduction
+  - workout
+
 
 ---
 ## Content

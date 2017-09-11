@@ -10,16 +10,13 @@ type: normal
 category: must-know
 
 tags:
-
   - linux
-
   - ssh
-
   - rsa
-
   - pasword-less
-
   - ssh-copy-id
+  - workout
+
 
 ---
 ## Content

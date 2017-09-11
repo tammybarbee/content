@@ -15,6 +15,9 @@ category: tip
 
 parent: practical-cron
 
+tags:
+  - workout
+  - deep
 ---
 ## Content
 

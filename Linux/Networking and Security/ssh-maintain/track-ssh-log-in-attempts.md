@@ -12,16 +12,13 @@ type: normal
 category: how to
 
 tags:
-
   - linux
-
   - security
-
   - ssh
-
   - bruteforce
-
   - debian
+  - workout
+
 
 ---
 ## Content

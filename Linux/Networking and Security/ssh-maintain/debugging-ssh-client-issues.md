@@ -12,12 +12,11 @@ type: normal
 category: how to
 
 tags:
-
   - linux
-
   - ssh
-
   - debugging
+  - workout
+
 
 notes: code blocks width is weird
 

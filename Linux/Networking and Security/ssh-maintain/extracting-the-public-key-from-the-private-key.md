@@ -14,16 +14,13 @@ type: normal
 category: how to
 
 tags:
-
   - linux
-
   - public
-
   - private
-
   - key
-
   - ssh-keygen
+  - workout
+
 
 ---
 ## Content

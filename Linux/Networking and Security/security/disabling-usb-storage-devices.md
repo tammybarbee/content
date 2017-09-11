@@ -16,6 +16,9 @@ links:
   - >-
     [www.cyberciti.biz](http://www.cyberciti.biz/faq/linux-disable-modprobe-loading-of-usb-storage-driver/){website}
 
+tags:
+  - workout
+  - deep
 ---
 ## Content
 

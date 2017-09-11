@@ -14,12 +14,11 @@ type: normal
 category: hack
 
 tags:
-
   - linux
-
   - terminal
-
   - netcat
+  - workout
+
 
 notes: ''
 

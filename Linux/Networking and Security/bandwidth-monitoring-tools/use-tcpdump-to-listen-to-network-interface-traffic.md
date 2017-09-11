@@ -13,6 +13,9 @@ type: normal
 
 category: how to
 
+tags:
+  - introduction
+  - workout
 ---
 ## Content
 

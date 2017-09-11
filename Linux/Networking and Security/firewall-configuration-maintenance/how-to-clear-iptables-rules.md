@@ -12,20 +12,16 @@ type: normal
 category: how to
 
 tags:
-
   - linux
-
   - firewall
-
   - iptables
-
   - disable
-
   - accept
-
   - chain
-
   - allow
+  - introduction
+  - workout
+
 
 notes: ''
 

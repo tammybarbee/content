@@ -12,16 +12,14 @@ type: normal
 category: feature
 
 tags:
-
   - ssh
-
   - linux
-
   - proxy
-
   - terminal
-
   - bash
+  - workout
+  - deep
+
 
 notes: ''
 

@@ -10,16 +10,14 @@ type: normal
 category: must-know
 
 tags:
-
   - linux
-
   - terminal
-
   - ssh
-
   - lock
-
   - escape
+  - introduction
+  - workout
+
 
 ---
 ## Content

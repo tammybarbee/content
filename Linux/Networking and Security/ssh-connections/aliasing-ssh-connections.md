@@ -10,16 +10,14 @@ type: normal
 category: must-know
 
 tags:
-
   - ssh
-
   - client
-
   - linux
-
   - terminal
-
   - config
+  - introduction
+  - workout
+
 
 notes: ''
 

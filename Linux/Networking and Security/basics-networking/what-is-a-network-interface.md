@@ -19,6 +19,9 @@ links:
     [Network
     devices](https://help.ubuntu.com/lts/serverguide/network-configuration.html){website}
 
+tags:
+  - introduction
+  - workout
 ---
 ## Content
 

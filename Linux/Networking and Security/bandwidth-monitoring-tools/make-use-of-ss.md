@@ -15,6 +15,9 @@ links:
 
   - '[Example of ss capabilities](http://www.binarytides.com/linux-ss-command/)'
 
+tags:
+  - introduction
+  - workout
 ---
 ## Content
 

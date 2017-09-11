@@ -11,6 +11,9 @@ type: normal
 
 category: how to
 
+tags:
+  - workout
+  - deep
 ---
 ## Content
 

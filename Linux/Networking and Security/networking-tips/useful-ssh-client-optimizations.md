@@ -14,16 +14,13 @@ type: normal
 category: best practice
 
 tags:
-
   - linux
-
   - ssh
-
   - ssh_config
-
   - config
-
   - optimizations
+  - workout
+
 
 ---
 ## Content

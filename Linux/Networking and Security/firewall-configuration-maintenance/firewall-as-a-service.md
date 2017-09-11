@@ -10,20 +10,16 @@ type: normal
 category: caveats
 
 tags:
-
   - linux
-
   - iptables
-
   - service
-
   - debian
-
   - ubuntu
-
   - persistent
-
   - firewall
+  - introduction
+  - workout
+
 
 notes: ''
 

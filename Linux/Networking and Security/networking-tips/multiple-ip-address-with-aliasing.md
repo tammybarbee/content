@@ -12,18 +12,14 @@ type: normal
 category: how to
 
 tags:
-
   - linux
-
   - multiple
-
   - ip
-
   - vhost
-
   - terminal
-
   - eth0
+  - workout
+
 
 ---
 ## Content

@@ -14,16 +14,13 @@ type: normal
 category: must-know
 
 tags:
-
   - sed
-
   - linux
-
   - terminal
-
   - delete empty lines
-
   - regex
+  - workout
+
 
 notes: ''
 

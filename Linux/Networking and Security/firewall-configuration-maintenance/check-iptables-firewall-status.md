@@ -10,14 +10,13 @@ type: normal
 category: how to
 
 tags:
-
   - linux
-
   - terminal
-
   - iptables
-
   - firewall
+  - introduction
+  - workout
+
 
 notes: ''
 

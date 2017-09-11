@@ -14,20 +14,16 @@ type: normal
 category: how to
 
 tags:
-
   - linux
-
   - terminal
-
   - network
-
   - RX
-
   - TX
-
   - slurm
-
   - statistics
+  - introduction
+  - workout
+
 
 ---
 ## Content

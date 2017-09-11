@@ -12,12 +12,12 @@ type: normal
 category: best practice
 
 tags:
-
   - iptables
-
   - firewall
-
   - logging
+  - introduction
+  - workout
+
 
 notes: ''
 

@@ -16,6 +16,9 @@ links:
   - '[More about Snowden effect](http://whatis.techtarget.com/definition/Snowden-effect)'
   - '[More on SSH](https://www.digitalocean.com/community/tutorials/how-to-use-ssh-to-connect-to-a-remote-server-in-ubuntu)'
 
+tags:
+  - introduction
+  - workout
 ---
 ## Content
 

@@ -19,6 +19,9 @@ links:
     [More use
     cases](http://www.thegeekstuff.com/2012/04/curl-examples/){website}
 
+tags:
+  - introduction
+  - workout
 ---
 ## Content
 

@@ -10,14 +10,13 @@ type: normal
 category: must-know
 
 tags:
-
   - linux
-
   - iptables
-
   - security
-
   - netfilter
+  - introduction
+  - workout
+
 
 notes: ''
 

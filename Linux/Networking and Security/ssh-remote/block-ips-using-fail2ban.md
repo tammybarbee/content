@@ -14,18 +14,15 @@ type: normal
 category: how to
 
 tags:
-
   - linux
-
   - fail2ban
-
   - terminal
-
   - ssh
-
   - bruteforce
-
   - security
+  - workout
+  - deep
+
 
 links:
 

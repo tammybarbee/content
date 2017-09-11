@@ -13,6 +13,9 @@ category: how to
 
 parent: ssh-pipes
 
+tags:
+  - workout
+  - deep
 ---
 ## Content
 

@@ -11,6 +11,9 @@ type: normal
 
 category: feature
 
+tags:
+  - workout
+  - deep
 ---
 ## Content
 
